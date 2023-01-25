@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    header > p {
+        padding-bottom: 50px;
+    }
+
+    nav {
+        justify-content: flex-start;
+    }
+
+    nav a {
+        margin-right: 40px;
+    }
+
+    main h1 {
+        font-size: 1.8em;
+    }
+}
